@@ -8,6 +8,7 @@ public class GG {
 		
 		
 		System.out.println("haha");
+		System.out.println("asfd");
 	}
 
 }
